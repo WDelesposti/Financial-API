@@ -1,6 +1,6 @@
 ## :dart: Sobre
 
-Projeto de uma API simples de finanças, seguindo instruções e dicas do curso Ignite Nodejs da Rocketseat, como prática dos conceitos básicos de NodeJs
+Projeto de uma API simples de finanças, seguindo instruções e dicas do curso Ignite Nodejs da Rocketseat, como prática dos conceitos básicos de Nodejs.
 
 ## :clipboard: Requisitos
 
