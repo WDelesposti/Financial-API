@@ -1,4 +1,8 @@
-### Requisitos
+## :dart: Sobre
+
+Projeto de uma API simples de finanças, seguindo instruções e dicas do curso Ignite Nodejs da Rocketseat, como prática dos conceitos básicos de NodeJs
+
+## :clipboard: Requisitos
 
 - [x] Deve ser possível criar uma conta
 - [x] Deve ser possível buscar o extrato bancário do cliente
@@ -10,7 +14,7 @@
 - [x] Deve ser possível deletar uma conta
 - [x] Deve ser possível retornar o balance
 
-### Regras de Negócio
+## :heavy_check_mark: Regras de Negócio
 
 - [x] Não deve ser possível cadastrar uma conta com CPF já existente
 - [x] Não deve ser possível fazer depósito em uma conta não existente
@@ -19,3 +23,34 @@
 - [x] Não deve ser possível excluir uma conta não existente
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Não deve ser possível buscar o balance de uma conta não existente
+
+## :rocket: Tecnologias
+
+- [Node.js](https://nodejs.org/en/)
+- [ExpressJS](https://expressjs.com/pt-br/)
+
+## :warning: Pré requisitos
+
+- [Node.js](https://nodejs.org/en/)
+- [Git](https://git-scm.com)
+- [Yarn](https://classic.yarnpkg.com/en/)
+
+## :checkered_flag: Começando
+
+```bash
+# Clone o repositório
+$ git clone https://github.com/WDelesposti/Financial-API.git
+
+# Acesse a pasta
+$ cd Financial-API
+
+# Instale as dependências do projeto
+$ yarn
+
+# Inicie o projeto
+$ node src/index.js
+
+# Inicie como desenvolvedor
+$ yarn dev
+
+```
