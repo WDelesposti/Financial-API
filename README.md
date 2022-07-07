@@ -1,4 +1,4 @@
-## :dart: Sobre
+## :page_facing_up: Sobre
 
 Projeto de uma API simples de finanças, seguindo instruções e dicas do curso Ignite Nodejs da Rocketseat, como prática dos conceitos básicos de Nodejs.
 
@@ -24,7 +24,7 @@ Projeto de uma API simples de finanças, seguindo instruções e dicas do curso 
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Não deve ser possível buscar o balance de uma conta não existente
 
-## :rocket: Tecnologias
+## :computer: Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
 - [ExpressJS](https://expressjs.com/pt-br/)
